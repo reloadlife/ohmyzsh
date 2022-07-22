@@ -1,0 +1,3 @@
+[submodule "custom/plugins/autoenv"]
+	path = custom/plugins/autoenv
+	url = git@github.com:reloadlife/ohmyzsh.git
